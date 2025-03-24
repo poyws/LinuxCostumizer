@@ -31,7 +31,7 @@ O Linux Customizer é uma ferramenta de personalização completa que permite ao
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/poyws/LinuxCostumizer/new/main
+   git clone https://github.com/poyws/LinuxCostumizer/tree/main
    cd linux-customizer
    ```
 
